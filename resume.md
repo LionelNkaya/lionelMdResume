@@ -1,7 +1,7 @@
 # Lionel Nkaya (He/him)
 **Email:** lionel.nkaya@gmail.com  
-**Portfolio:** [https://pf.lionelnkaya.com](https://pf.lionelnkaya.com) (please allow 1 minute for VM loading)  
-**GitHub:** [https://github.com/LionelNkaya](https://github.com/LionelNkaya)
+**Portfolio:** <a href="https://pf.lionelnkaya.com" target="_blank">https://pf.lionelnkaya.com</a> (please allow 1 minute for VM loading)  
+**GitHub:** <a href="https://github.com/LionelNkaya" target="_blank">https://github.com/LionelNkaya</a>
 
 ## PROFILE
 Passionate technologist, I aim to use data to develop applications that guide teams in decision-making. Extensive involvement with Leadership in capacity building, training, and digital transformation in the Healthcare and Education sector.
@@ -10,7 +10,9 @@ Passionate technologist, I aim to use data to develop applications that guide te
 
 ### Loma Linda University Health – Greater Los Angeles, CA
 **Business Application Analyst (Remote) (June 2022 - Present) (2 years)**  
-Developing web applications and automation workflows for the mission of Making Humans Whole.  
+
+Developing web applications and automation workflows for the mission of Making Humans Whole.
+  
 **Tech stack:**
 - Web development: HTML / CSS / JavaScript (jQuery and Vue JS) / PHP / Python / SQL / Rest API
 - Robotic Process Automation (RPA): MS Power Automate Desktop, Python, UiPath
