@@ -18,7 +18,7 @@ Also proficient in training non-technical teams, fostering community-driven tech
 - Facilitated the adoption of new software across the organization.
   
 **Tech stack:**
-HTML, CSS, React JS, PHP, Python, SQL, SOAP & REST API, MS Power Automate Desktop, Python, UiPath, MS Power Automate, Nintex, SharePoint Server
+HTML, CSS, React JS, PHP, Python, SQL, SOAP & REST API, MS Power Automate Desktop, UiPath, MS Power Automate, Nintex, SharePoint Server
 
 ### WelbeHealth – Menlo Park, CA
 **IT&S Customer Support Analyst (Remote) (January 2022 – June 2022) (6 months)**
