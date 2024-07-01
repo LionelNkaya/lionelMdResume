@@ -4,7 +4,7 @@
 **GitHub:** <a href="https://github.com/LionelNkaya" target="_blank">https://github.com/LionelNkaya</a>
 
 ## PROFILE
-Passionate technologist, I aim to use data to develop applications that guide teams in decision-making. Extensive involvement with Leadership in capacity building, training, and digital transformation in the Healthcare and Education sector.
+Passionate developer with a focus on leveraging data to create impactful applications. Experienced in leading digital transformations in healthcare and education, and skilled in both front-end and back-end development. Proficient in training non-technical teams and fostering community-driven tech adoption.
 
 ## EXPERIENCE
 
