@@ -14,9 +14,12 @@ Passionate technologist, I aim to use data to develop applications that guide te
 Developing web applications and automation workflows for the mission of Making Humans Whole.
   
 **Tech stack:**
-- Web development: HTML / CSS / JavaScript (jQuery and Vue JS) / PHP / Python / SQL / Rest API
+- Web development: HTML / CSS / React JS / PHP / Python / SQL / SOAP & REST API
 - Robotic Process Automation (RPA): MS Power Automate Desktop, Python, UiPath
 - Low code Platforms: MS Power Automate, Nintex (Forms and Workflows), SharePoint Server
+
+Created a Citizen Developer Community and currently training non-technical individuals to build basic workflow applications, 
+diffuse technical knowledge and facilitate adoption of new software throughout the organization.
 
 ### WelbeHealth – Menlo Park, CA
 **IT&S Customer Support Analyst (Remote) (January 2022 – June 2022) (6 months)**
@@ -90,4 +93,4 @@ European Business School (EBS), Paris, France
 ## TECHNOLOGIES
 - **Web development:** HTML, CSS, JavaScript, WordPress, Bootstrap, Zend, Laravel, React, Django
 - **Sys Administration / DevOps:** Linux Server, Apache Web Server, Git, AWS, Google Cloud
-- **Programming:** OOP with model-view-controller (MVC) design pattern. Python, PHP, SQL
+- **Programming:** Object Oriented Programming using model-view-controller (MVC) design pattern. Python, PHP, SQL
